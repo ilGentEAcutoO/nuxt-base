@@ -1,5 +1,5 @@
 <template>
   <div class="font-Sarabun">
-    <NuxtWelcome />
+    <NuxtWelcome /> fsdfdsfds
   </div>
 </template>
